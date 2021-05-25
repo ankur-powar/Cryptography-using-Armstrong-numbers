@@ -1,6 +1,6 @@
 # Cryptography Using Armstrong Numbers
 
-# Overview
+## `Overview`
 
 Python Application for encrypting and decrypting data using key involving Armstrong numbers and colors as password.
 
