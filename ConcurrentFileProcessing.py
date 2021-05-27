@@ -95,8 +95,6 @@ def main():
     #tfname = 'd:/mydocs/bb.txt'
     #sfname = 'd:/images/kids.jpg'
     #tfname = 'd:/images/school_kids.jpg'
-    sfname = 'D:\projects\SE_PBL/input.txt'
-    tfname = 'D:\projects\SE_PBL/output.txt'
 
     fp = FileProcessor(sfname, tfname)
     fp.process()
