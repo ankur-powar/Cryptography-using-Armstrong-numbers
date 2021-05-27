@@ -159,7 +159,7 @@ def main():
     fp2 = FileProcessor(efname, tfname, 'D')
     fp2.process()
 
-    #x = "Where is my Computer?"
+    #x = "Where is my Laptop?"
     #enc = Encoder_Level2((226,123,155))
     #y = ''
     #for c in x:
