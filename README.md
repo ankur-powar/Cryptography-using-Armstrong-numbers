@@ -1,4 +1,4 @@
-# Cryptography Using Armstrong Numbers
+# Cryptography Using Color Code
 
 ## `Overview`
 
